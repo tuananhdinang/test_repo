@@ -7,3 +7,4 @@ Kieu Le Viet - 20112501
 Le Minh Viet - 20112503
 Pham Hoang Ha - 20111463
 Phan Duc Toan - 20112695
+Hoang Ngoc Quy - 20112011
